@@ -2,6 +2,7 @@
 
 # Le Pattern d'observateur
 est un modèle de conception de logiciel dans lequel un objet, appelé sujet, maintient une liste de ses dépendants, appelés observateurs, et les notifie automatiquement de tout changement d'état, généralement en appelant l'une de leurs méthodes.
+- J'ai utilisé la classe Observable et l'interface Observer (du package Java.util) pour implementer le pattern. Advantage reutilisation de code 
 
 
 # Le pattern Singleton
