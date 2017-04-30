@@ -3,7 +3,7 @@ package pattern.singleton;
 import javax.swing.JFrame;
 
 @SuppressWarnings("serial")
-public class Singleton extends JFrame {
+public class Main_Singleton extends JFrame {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
